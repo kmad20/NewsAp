@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/filter_1"
+        android:title="PinkVilla"
+        app:showAsAction="never"/>
+    <item android:id="@+id/filter_2"
+        android:title="The Hindustan Times"
+        app:showAsAction="never"/>
+    <item android:id="@+id/filter_3"
+        android:title="DNA"
+        app:showAsAction="never"/>
+    <item android:id="@+id/filter_4"
+        android:title="Times of india"
+        app:showAsAction="never"/>
+    <item android:id="@+id/filter_5"
+        android:title="Bloomberg"
+        app:showAsAction="never"/>
+    <item android:id="@+id/filter_6"
+        android:title="News18"
+        app:showAsAction="never"/>
+    <item android:id="@+id/filter_7"
+        android:title="money control"
+        app:showAsAction="never"/>
+    <item android:id="@+id/filter_8"
+        android:title="The Indian Express"
+        app:showAsAction="never"/>
+</menu>
